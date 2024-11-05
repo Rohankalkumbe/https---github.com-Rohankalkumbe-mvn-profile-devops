@@ -1,0 +1,5 @@
+profiles\app\devTest\AppTest.class
+profiles\app\qaTest\Automa.class
+profiles\app\prodTest\Integration.class
+profiles\app\qaTest\Auto.class
+profiles\app\prodTest\Inte.class
